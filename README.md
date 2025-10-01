@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harish Ananda Ramanujam</h1>
-<h3 align="center">A Pragmatic Machine Learning Operations Engineer focused on Data, ML and Cloud Infrastructure</h3>
+<h3 align="center">Machine Learning Operations Engineer | Data Enthusiast | Cloud Architect | Forever Learner</h3>
 
-- 🔭 I’m currently working on **Building robust Data & ML Infrastructure**
+- Currently tinkering with: 🤖 Building robust Data & ML Infrastructure that's scalable, efficient, and maybe even a little bit magical ✨
 
-- 🌱 I’m currently learning **LLM Engineering**
+- Learning curve: 📚 Diving deep into LLM Engineering and exploring the uncharted territories of language models. What's next? 🤔
 
-- 💬 Ask me about **Bridging Cloud Computing and Machine Learning**
+- Ask me anything about: 💬 Bridging the gap between Cloud Computing and Machine Learning. I love a good challenge! 💡
 
-- 📄 Know about my experiences [<link>](<link>)
+- My story: 📄 Check out my experiences and adventures in the world of tech <link>
 
-- ⚡ Fun fact **You can find me exploring national parks, appreciating their beauty, and thinking about how technology can help preserve these natural wonders. I'm passionate about contributing to open-source projects and giving back to the community.**
+- When I'm not coding: 🏞️ You can find me exploring national parks, geeking out over wildlife conservation tech, or contributing to open-source projects. 🌟
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
