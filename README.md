@@ -68,15 +68,16 @@
          alt="hive" width="40" height="40"/>
   </a>
 
-  <!-- Apache Flink (colored logo) -->
+
+  <!-- Apache Flink (colored) -->
   <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" 
+    <img src="https://flink.apache.org/material/color_black.svg"
          alt="Apache Flink" width="40" height="40"/>
   </a>
 
-  <!-- Apache Airflow (colored logo) -->
+  <!-- Apache Airflow (colored) -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" 
+    <img src="https://www.svgrepo.com/show/341607/apache-airflow.svg"
          alt="Apache Airflow" width="40" height="40"/>
   </a>
 
