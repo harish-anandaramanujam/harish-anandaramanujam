@@ -71,8 +71,8 @@
 
   <!-- Apache Flink (colored) -->
   <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://flink.apache.org/material/color_black.svg"
-         alt="Apache Flink" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheflink.svg"
+       alt="Apache Flink" width="40" height="40" />
   </a>
 
   <!-- Apache Airflow (colored) -->
