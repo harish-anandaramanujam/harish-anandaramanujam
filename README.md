@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish Ananda Ramanujam</h1>
 <h3 align="center">Machine Learning Operations Engineer | Big Data Enthusiast | Cloud Architect | Forever Learner</h3>
 
-- Currently tinkering with: 🤖 Building robust Data & ML Infrastructure that's scalable, efficient, and maybe even a little bit magical ✨
+- Currently tinkering with: 🤖 As a student of craft, I focus on building robust Data & ML Infrastructure that's scalable, efficient, and maybe even a little bit magical ✨
 
 - Learning curve: 📚 Diving deep into LLM Engineering and exploring the uncharted territories of language models. What's next? 🤔
 
