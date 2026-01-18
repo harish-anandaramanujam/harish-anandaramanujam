@@ -73,12 +73,10 @@ Machine Learning Specialization – Stanford University
 
 <h3 align="left">DevOps / Automation</h3>
 <p align="left">
-  <span style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border-radius:8px;background:#fff;box-shadow:0 0 0 1px #e0e0e0;">
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-           alt="github actions" width="40" height="40"/>
-    </a>
-  </span>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-_-?style=flat-square&logo=githubactions&logoColor=000000&labelColor=ffffff&color=ffffff" 
+         alt="github actions" height="36"/>
+  </a>
 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
@@ -108,31 +106,25 @@ Machine Learning Specialization – Stanford University
 
 <h3 align="left">Data Tools</h3>
 <p align="left">
-  <span style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border-radius:8px;background:#fff;box-shadow:0 0 0 1px #e0e0e0;">
-    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" 
-           alt="kafka" width="40" height="40"/>
-    </a>
-  </span>
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-_-?style=flat-square&logo=apachekafka&logoColor=000000&labelColor=ffffff&color=ffffff" 
+         alt="kafka" height="36"/>
+  </a>
 
-  <span style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border-radius:8px;background:#fff;box-shadow:0 0 0 1px #e0e0e0;">
-    <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheflink.svg"
-           alt="apache flink" width="40" height="40" />
-    </a>
-  </span>
+  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-_-?style=flat-square&logo=apacheflink&logoColor=E6526F&labelColor=ffffff&color=ffffff" 
+         alt="apache flink" height="36"/>
+  </a>
 
   <a href="https://aws.amazon.com/emr/" target="_blank" rel="noreferrer">
     <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><rect width='40' height='40' rx='6' fill='%23ffffff'/><rect x='6' y='6' width='28' height='28' rx='4' fill='%23232f3e'/><text x='20' y='24' text-anchor='middle' font-family='Arial' font-size='12' fill='%23ffffff'>EMR</text></svg>" 
          alt="emr" width="40" height="40"/>
   </a>
 
-  <span style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border-radius:8px;background:#fff;box-shadow:0 0 0 1px #e0e0e0;">
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/341607/apache-airflow.svg"
-           alt="apache airflow" width="40" height="40"/>
-    </a>
-  </span>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-_-?style=flat-square&logo=apacheairflow&logoColor=017cee&labelColor=ffffff&color=ffffff" 
+         alt="apache airflow" height="36"/>
+  </a>
 
   <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
     <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><rect width='40' height='40' rx='6' fill='%23ffffff'/><rect x='6' y='6' width='28' height='28' rx='4' fill='%23232f3e'/><text x='20' y='24' text-anchor='middle' font-family='Arial' font-size='12' fill='%23ffffff'>RS</text></svg>" 
@@ -167,12 +159,10 @@ Machine Learning Specialization – Stanford University
          alt="mlflow" width="40" height="40"/>
   </a>
 
-  <span style="display:inline-flex;align-items:center;justify-content:center;padding:6px;border-radius:8px;background:#fff;box-shadow:0 0 0 1px #e0e0e0;">
-    <a href="https://langchain.com/langgraph" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" 
-           alt="langgraph" width="40" height="40"/>
-    </a>
-  </span>
+  <a href="https://langchain.com/langgraph" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-_-?style=flat-square&logo=langchain&logoColor=10B981&labelColor=ffffff&color=ffffff" 
+         alt="langgraph" height="36"/>
+  </a>
 
   <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/pinecone-io/pinecone-logo/main/logo.svg" 
