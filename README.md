@@ -18,12 +18,28 @@
   <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="harish-anandaramanujam" height="40" width="40"/></a>
   <a href="https://www.kaggle.com/harishanandaramanuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harish-anandaramanujam" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Certifications</h3>
+<p align="left">
+AWS Certified DevOps Engineer – Professional<br/>
+CCNA (Cisco ID No. CSCO13491305)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Professional Development</h3>
 <p align="left">
+Machine Learning Specialization – Stanford University
+</p>
 
-  <!-- Cloud Platforms -->
+<h3 align="left">Languages</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Cloud Platforms</h3>
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
          alt="aws" width="40" height="40"/>
@@ -34,10 +50,9 @@
          alt="gcp" width="40" height="40"/>
   </a>
 
-  <!-- Containerization & Orchestration -->
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-         alt="docker" width="40" height="40"/>
+  <a href="https://www.openstack.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" 
+         alt="openstack" width="40" height="40"/>
   </a>
 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
@@ -45,79 +60,114 @@
          alt="kubernetes" width="40" height="40"/>
   </a>
 
-  <!-- Programming & Data -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="40" height="40"/>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+         alt="docker" width="40" height="40"/>
   </a>
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
-         alt="pandas" width="40" height="40"/>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" 
+         alt="terraform" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">DevOps / Automation</h3>
+<p align="left">
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="github actions" width="40" height="40"/>
   </a>
 
-  <!-- ML & Analytics -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
-         alt="tensorflow" width="40" height="40"/>
-  </a>
-
-  <!-- Big Data -->
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" 
-         alt="hive" width="40" height="40"/>
-  </a>
-
-
-  <!-- Apache Flink (colored) -->
-  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheflink.svg"
-       alt="Apache Flink" width="40" height="40" />
-  </a>
-
-  <!-- Apache Airflow (colored) -->
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/341607/apache-airflow.svg"
-         alt="Apache Airflow" width="40" height="40"/>
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-         alt="postgresql" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-         alt="mysql" width="40" height="40"/>
-  </a>
-
-  <!-- Monitoring & Logging -->
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" 
-         alt="elasticsearch" width="40" height="40"/>
-  </a>
-
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" 
-         alt="grafana" width="40" height="40"/>
-  </a>
-
-  <!-- CI/CD & DevOps -->
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
          alt="jenkins" width="40" height="40"/>
   </a>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-         alt="git" width="40" height="40"/>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" 
+         alt="argocd" width="40" height="40"/>
   </a>
 
-  <!-- OS -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-         alt="linux" width="40" height="40"/>
+  <a href="https://helm.sh" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" 
+         alt="helm" width="40" height="40"/>
   </a>
 
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/aws/aws-icons-for-plantuml/v14.0/dist/Compute/Amazon-CloudWatch-Service-Icon.svg" 
+         alt="cloudwatch" width="40" height="40"/>
+  </a>
+
+  <a href="https://prometheus.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" 
+         alt="prometheus" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Data Tools</h3>
+<p align="left">
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" 
+         alt="kafka" width="40" height="40"/>
+  </a>
+
+  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheflink.svg"
+         alt="apache flink" width="40" height="40" />
+  </a>
+
+  <a href="https://aws.amazon.com/emr/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/aws/aws-icons-for-plantuml/v14.0/dist/Analytics/Amazon-EMR.svg" 
+         alt="emr" width="40" height="40"/>
+  </a>
+
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/341607/apache-airflow.svg"
+         alt="apache airflow" width="40" height="40"/>
+  </a>
+
+  <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" 
+         alt="redshift" width="40" height="40"/>
+  </a>
+
+  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" 
+         alt="bigquery" width="40" height="40"/>
+  </a>
+
+  <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/12271754?s=200&v=4" 
+         alt="apache iceberg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.snowflake.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" 
+         alt="snowflake" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">ML / AI Tools</h3>
+<p align="left">
+  <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
+         alt="vertex ai" width="40" height="40"/>
+  </a>
+
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" 
+         alt="mlflow" width="40" height="40"/>
+  </a>
+
+  <a href="https://langchain.com/langgraph" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" 
+         alt="langgraph" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pinecone-io/pinecone-logo/main/logo.svg" 
+         alt="pinecone" width="40" height="40"/>
+  </a>
+
+  <span>Agentic AI, MCP, QLoRA, RAG</span>
 </p>
