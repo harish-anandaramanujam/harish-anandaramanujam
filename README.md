@@ -73,10 +73,12 @@ Machine Learning Specialization – Stanford University
 
 <h3 align="left">DevOps / Automation</h3>
 <p align="left">
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         alt="github actions" width="40" height="40"/>
-  </a>
+  <span style="display:inline-block;padding:6px;border-radius:8px;background:#fff;">
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+           alt="github actions" width="40" height="40"/>
+    </a>
+  </span>
 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" 
@@ -94,7 +96,7 @@ Machine Learning Specialization – Stanford University
   </a>
 
   <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icons-for-plantuml/v14.0/dist/Compute/Amazon-CloudWatch-Service-Icon.svg" 
+    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><rect width='40' height='40' rx='6' fill='%23ffffff'/><rect x='6' y='6' width='28' height='28' rx='4' fill='%23232f3e'/><text x='20' y='24' text-anchor='middle' font-family='Arial' font-size='12' fill='%23ffffff'>CW</text></svg>" 
          alt="cloudwatch" width="40" height="40"/>
   </a>
 
@@ -106,10 +108,12 @@ Machine Learning Specialization – Stanford University
 
 <h3 align="left">Data Tools</h3>
 <p align="left">
-  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" 
-         alt="kafka" width="40" height="40"/>
-  </a>
+  <span style="display:inline-block;padding:6px;border-radius:8px;background:#fff;">
+    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" 
+           alt="kafka" width="40" height="40"/>
+    </a>
+  </span>
 
   <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheflink.svg"
@@ -117,17 +121,19 @@ Machine Learning Specialization – Stanford University
   </a>
 
   <a href="https://aws.amazon.com/emr/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aws/aws-icons-for-plantuml/v14.0/dist/Analytics/Amazon-EMR.svg" 
+    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><rect width='40' height='40' rx='6' fill='%23ffffff'/><rect x='6' y='6' width='28' height='28' rx='4' fill='%23232f3e'/><text x='20' y='24' text-anchor='middle' font-family='Arial' font-size='12' fill='%23ffffff'>EMR</text></svg>" 
          alt="emr" width="40" height="40"/>
   </a>
 
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/341607/apache-airflow.svg"
-         alt="apache airflow" width="40" height="40"/>
-  </a>
+  <span style="display:inline-block;padding:6px;border-radius:8px;background:#fff;">
+    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/341607/apache-airflow.svg"
+           alt="apache airflow" width="40" height="40"/>
+    </a>
+  </span>
 
   <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" 
+    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'><rect width='40' height='40' rx='6' fill='%23ffffff'/><rect x='6' y='6' width='28' height='28' rx='4' fill='%23232f3e'/><text x='20' y='24' text-anchor='middle' font-family='Arial' font-size='12' fill='%23ffffff'>RS</text></svg>" 
          alt="redshift" width="40" height="40"/>
   </a>
 
@@ -159,10 +165,12 @@ Machine Learning Specialization – Stanford University
          alt="mlflow" width="40" height="40"/>
   </a>
 
-  <a href="https://langchain.com/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" 
-         alt="langgraph" width="40" height="40"/>
-  </a>
+  <span style="display:inline-block;padding:6px;border-radius:8px;background:#fff;">
+    <a href="https://langchain.com/langgraph" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" 
+           alt="langgraph" width="40" height="40"/>
+    </a>
+  </span>
 
   <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/pinecone-io/pinecone-logo/main/logo.svg" 
