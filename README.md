@@ -100,10 +100,3 @@ My core focus is Apache Airflow, Apache Flink, Apache Kafka, and modern data sto
 I enjoy traveling, exploring national parks, and following the intersection of technology and wildlife conservation.
 
 I am always interested in connecting with other engineers, collaborating on open-source data and AI infrastructure, and exploring speaking or judging opportunities.
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harish-anandaramanujam&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="Harish's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-anandaramanujam&layout=compact&hide_border=true" alt="Languages used in Harish's public GitHub repositories">
-</p>
